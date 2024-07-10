@@ -3,6 +3,8 @@
 | NO  | NAMA            | NIM       | KELAS     | MATA KULIAH      |
 | --- | -----------     | --------- | --------- | ---------------- |
 | 1   | Taufik Hidayat  | 312210674 | TI.22.B.2 | Pengolahan Citra |
+| 2   | Dani Hermawan   | 312210619 | TI.22.B.2 | Pengolahan Citra |
+| 2   | Maulana Ismail  | 312210353 | TI.22.B.2 | Pengolahan Citra |
 
 # Segementasi Gambar Citra Digital Dengan Algoritma K-means Clustering
 
